@@ -79,7 +79,7 @@ ws.on('message', (data)=>{
   nick: '8ca1de'
 }
 ```
-**Optional fields**
+**Optional fields that aren't sent if they're empty**
 - service ``string``
 - description ``string``
 - tags ``string[]``
