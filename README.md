@@ -8,14 +8,14 @@ automated systems scan our ports and/or attempt to exploit services binded to th
 
 ## Related API endpoints
 ### GET
-https://router.unrealsec.eu/badips
-https://router.unrealsec.eu/badip
-https://router.unrealsec.eu/127.0.0.1/badip
+- https://router.unrealsec.eu/badips
+- https://router.unrealsec.eu/badip
+- https://router.unrealsec.eu/127.0.0.1/badip
 ### POST
-https://router.unrealsec.eu/bl
-https://router.unrealsec.eu/bulk
+- https://router.unrealsec.eu/bl
+- https://router.unrealsec.eu/bulk
 ### WebSocket
-wss://leet.network/ws-live
+- wss://leet.network/ws-live
 
 ## Examples
 ### WebSocket
