@@ -7,11 +7,11 @@ and uses our WebSocket API endpoint to receive alerts when
 automated systems scan our ports or attempt to exploit services binded to them.
 
 ## Related API endpoints
-### HTTP GET
+### GET
 https://router.unrealsec.eu/badips
 https://router.unrealsec.eu/badip
 https://router.unrealsec.eu/127.0.0.1/badip
-### HTTP POST
+### POST
 https://router.unrealsec.eu/bl
 https://router.unrealsec.eu/bulk
 ### WebSocket
