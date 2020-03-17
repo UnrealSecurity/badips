@@ -79,6 +79,10 @@ ws.on('message', (data)=>{
   nick: '8ca1de'
 }
 ```
+**Optional fields**
+- service ``string``
+- description ``string``
+- tags ``string[]``
 
 ### Bulk
 #### Check multiple IP addresses separated by newline character and return JSON
