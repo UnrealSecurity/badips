@@ -5,7 +5,7 @@
 The site above is available [here](https://leet.network/badips) 
 and connects our WebSocket API endpoint to receive alerts when 
 automated systems scan our ports and/or attempt to exploit services binded to them.
--- I do NOT want to start ratelimiting people or blocking access from certain IP addresses so please reduce your requests to very minimum.
+- *I do NOT want to start ratelimiting people or blocking access from certain IP addresses so please reduce your requests to very minimum.*
 
 ## Related API endpoints
 ### GET
