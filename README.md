@@ -41,7 +41,7 @@ ws.on('message', (data)=>{
    console.log(data);
 });
 ```
-```json
+```javascript
 {
   address: '51.89.134.150',
   port: 3389,
