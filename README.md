@@ -16,6 +16,7 @@ Recently we began sending automated abuse reports to medium/large hosting compan
 - https://router.unrealsec.eu/badips (list of all unique IP addresses blacklisted so far and it's a lot)
 - https://router.unrealsec.eu/badip (check if the request sender's address is on our blacklist)
 - https://router.unrealsec.eu/127.0.0.1/badip (check if specified address is on our blacklist)
+- https://router.unrealsec.eu/nick (get your ip hash that is used to identify your public network in feeds)
 ### POST
 - https://router.unrealsec.eu/bl (request IP blacklisting, whitelisted addresses only)
 - https://router.unrealsec.eu/bulk (geo information and blacklist status for list of addresses separated by newline character)
