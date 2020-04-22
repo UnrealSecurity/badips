@@ -3,6 +3,7 @@
 
 ## Description
 The site above is available [here](https://leet.network/badips) 
+and beta version of another site [here](https://leet.network/badips/badips-map-beta)
 and connects to our WebSocket API endpoint to receive alerts when 
 automated systems scan our ports and/or attempt to exploit services binded to them. 
 Recently we began sending automated abuse reports to medium/large hosting companies via email when there is suspicious traffic detected from their networks to our networks. Every address has 30 minutes cooldown in attempt to prevent email spam.
